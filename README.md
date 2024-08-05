@@ -1,1 +1,1 @@
-# Iris-Diabetes-Dataset-Applications
+# Sklearn-Dataset-Applications
